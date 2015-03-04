@@ -14,7 +14,7 @@ This repository contains Dockerfile of Cloud9 IDE for Docker's automated build p
 
 Get the latest version from github
 
-    git clone https://github.com/AshDevFr/cloud9-docker
+    git clone https://github.com/AshDevFr/docker-cloud9.git
     cd cloud9-docker/
 
 Build it
